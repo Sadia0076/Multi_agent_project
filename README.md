@@ -114,7 +114,11 @@ graph TD
     H --> O[Generate Documentation]
     O --> P[Complete!]
 ```
+## ⚙️ Deployment Configuration
 
+To ensure compatibility with CrewAI, ChromaDB, and Pydantic dependencies, this project is deployed using:
+python-3.11
+This avoids issues with newer Python versions (3.12+ / 3.13+), which may break AI agent dependencies.
 ---
 
 ## 📌 Roadmap
@@ -131,6 +135,12 @@ graph TD
 - [ ] Security audit agent
 
 ---
+## 🌐 Live Demo
+
+👉 Try the application here:  
+(https://multiagentproject-vhajogbj9czsuv9aif29v8.streamlit.app/)
+
+> ⚡ This app is deployed on Streamlit Cloud and may take a few seconds to initialize AI agents on first load.
 
 
 ---
