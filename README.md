@@ -1,6 +1,6 @@
-# 🤖 DevFlow.AI - Multi-Agent AI Developer
+# Multi-Agent AI Developer (DevFlow AI)
 
-DevFlow.AI is a **multi-agent AI system** that automates the entire software development workflow. It simulates a collaborative development environment where specialized AI agents work together to generate code, write tests, fix bugs, review changes, and create documentation.
+It is a **multi-agent AI system** that automates the entire software development workflow. It simulates a collaborative development environment where specialized AI agents work together to generate code, write tests, fix bugs, review changes, and create documentation.
 
 Built with **Streamlit**, **CrewAI**, and **Groq's Llama-3.1**, DevFlow.AI provides a zero-cost, cloud-deployable solution for AI-assisted development.
 
